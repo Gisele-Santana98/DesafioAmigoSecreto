@@ -9,3 +9,7 @@ um botão "Sortear Amigo" selecionará um dos nomes de forma aleatória, exibind
 
 
 ![TelaInicial](https://github.com/user-attachments/assets/55782a45-7fa4-41dd-915c-664993746626)
+
+
+
+![TesteFuncionalidade](https://github.com/user-attachments/assets/dfe9ea6b-b7e1-4748-afa7-11d8f309e417)
